@@ -101,8 +101,8 @@
 ## Actividad en GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=juanlema-16&show_icons=true&hide_border=true&title_color=dc2626&icon_color=1d4ed8&text_color=ffffff&bg_color=0a0a0a" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=juanlema-16&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0a0a0a&stroke=1d4ed8&ring=dc2626&fire=dc2626&currStreakLabel=dc2626&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-stats-juan-lema.vercel.app/api?username=juanlema-16&show_icons=true&hide_border=true&title_color=dc2626&icon_color=1d4ed8&text_color=ffffff&bg_color=0a0a0a" alt="GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=juanlema-16&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0a0a0a&stroke=1d4ed8&ring=dc2626&fire=dc2626&currStreakLabel=dc2626&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub streak" />
 </div>
 
 <div align="center">
@@ -126,5 +126,3 @@
 </div>
 
 ---
-
-**Perfil actualizado:** Agosto 2026
